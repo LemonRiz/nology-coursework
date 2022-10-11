@@ -38,7 +38,6 @@ header h1 {
     box-shadow: 5px 5px 5px 5px lightgray;
     opacity: 0.5;
     transition: opacity 0.5s ease;
-    marquee
 }
 
 .card:hover{

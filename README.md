@@ -1,2 +1,0 @@
-# nology-coursework
-
